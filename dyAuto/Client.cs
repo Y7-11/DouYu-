@@ -146,7 +146,7 @@ namespace dyAuto
 
                 foreach (var item in ms)
                 {
-                    if (!item.Count("@="))
+                    if (!item.Contains("@="))
                     {
                         continue;
                     }
