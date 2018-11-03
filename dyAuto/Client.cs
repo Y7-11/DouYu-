@@ -146,6 +146,10 @@ namespace dyAuto
 
                 foreach (var item in ms)
                 {
+                    if (!item.Count("@="))
+                    {
+                        continue;
+                    }
                     string[] msg = item.Replace("@=", "=").Split('=');
                     if (msg[0] == "txt")
                     {

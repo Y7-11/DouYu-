@@ -4,3 +4,9 @@ H:\学习\dyAuto\dyAuto\bin\Debug\dyAuto.pdb
 H:\学习\dyAuto\dyAuto\obj\Debug\dyAuto.csprojResolveAssemblyReference.cache
 H:\学习\dyAuto\dyAuto\obj\Debug\dyAuto.exe
 H:\学习\dyAuto\dyAuto\obj\Debug\dyAuto.pdb
+H:\学习\DouYu-\dyAuto\bin\Debug\dyAuto.exe.config
+H:\学习\DouYu-\dyAuto\obj\Debug\dyAuto.exe
+H:\学习\DouYu-\dyAuto\obj\Debug\dyAuto.pdb
+H:\学习\DouYu-\dyAuto\bin\Debug\dyAuto.exe
+H:\学习\DouYu-\dyAuto\bin\Debug\dyAuto.pdb
+H:\学习\DouYu-\dyAuto\obj\Debug\dyAuto.csprojResolveAssemblyReference.cache
