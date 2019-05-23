@@ -16,7 +16,7 @@ namespace dyAuto
         {
 
             int port = 8601;
-            string Address = "119.97.145.173";
+            string Address = "119.96.201.28";
             int roomid = 0;
             Client client = new Client();
             client.connect(Address, port);
